@@ -1,0 +1,113 @@
+CSS - Cascading Style Sheet
+---
+
+Property : Value
+---
+
+color:red/green/blue;
+background-color: red/green/blue;
+text-align: left(default), center, right, justify
+text-transform: uppercase, lowercase, capitalize
+
+font-weight:bold
+font-style:italic
+text-decoratin:underline
+
+
+font-size: 20px/20cm/20rem/20em/20%
+
+1px = .
+
+
+word-spacing: 20px/20cm/20rem/20em/20%
+letter-spacing: 20px/20cm/20rem/20em/20%
+
+
+Color 3 Ways
+---
+
+Solid Color: red/green/blue/yellow - Good
+RGB Color (red,green,blue) - Better
+			
+		rgb(0-255,0-255,0-255)
+		rgb(123,234,67)
+
+Color Code / Hexa Code : 0-9, A-F, a-f - Best
+                         #AAf09e
+
+
+CSS 3 Ways
+---
+
+Inline Css     - Good / Coding Crime
+
+Internal Css   - Better
+---
+
+tag{property:value}
+h1{color:red;}
+
+External Css   - Best
+
+
+Most Important
+---
+
+Name/Class .classname
+Name/ID   #idname
+
+width : 20px/20cm/20rem/20em/20%
+height : 20px/20cm/20rem/20em/20%
+
+Margin(Outer Gap) - 3 Ways
+---
+
+#1
+---
+
+margin-top: 20px
+margin-right: 30px
+margin-bottom: 50px
+margin-left: 60px
+
+#2
+---
+margin-top: 20px
+margin-right: 20px
+margin-bottom: 20px
+margin-left: 20px
+
+margin:20px
+
+#3
+---
+margin-top: 20px
+margin-right: 30px
+margin-bottom: 20px
+margin-left: 30px
+
+margin: (top+bottom)/2 (left+right)/2
+        (20px + 20px)/2 (30px + 30px)/2
+		 20px 30px
+
+
+
+Padding(Inner Gap) - 3 
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

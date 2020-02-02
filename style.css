@@ -1,0 +1,29 @@
+.boundary{
+	width:1000px;
+	background-color:#dfdfdf;
+	overflow:hidden;
+	margin:0 auto;
+}
+.box{
+	background-color:teal;
+	width:313px;
+	float:left;
+	margin-right:20px;
+}
+.box h4{
+	text-align:center;
+	color:white;
+}
+.box img{
+	width:100%;
+}
+.box p{
+	
+}
+.box a{
+	color:white;
+	text-decoration:none;
+	background-color:tomato;
+	padding:10px 30px;
+	display:inline-block;
+}
